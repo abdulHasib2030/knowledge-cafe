@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://unsplash.com/photos/WLxQvbMyfas",
+      "title": "The Rise of AI in Modern Technology",
+      "author": "John Doe",
+      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": "5 min",
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://unsplash.com/photos/7KLa-xLbSXA",
+      "title": "Top 10 Python Libraries for Data Science",
+      "author": "Jane Smith",
+      "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "posted_date": "2024-02-10",
+      "reading_time": "7 min",
+      "hashtags": ["#Python", "#DataScience", "#Libraries"]
+    },
+    {
+      "id": 3,
+      "cover": "https://unsplash.com/photos/5Xwaj9gaR0g",
+      "title": "Exploring Quantum Computing",
+      "author": "Alice Johnson",
+      "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": "6 min",
+      "hashtags": ["#QuantumComputing", "#Innovation", "#TechTrends"]
+    },
+    {
+      "id": 4,
+      "cover": "https://unsplash.com/photos/ZzOa5G8hSPI",
+      "title": "How Blockchain is Revolutionizing Finance",
+      "author": "Michael Lee",
+      "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+      "posted_date": "2024-04-18",
+      "reading_time": "8 min",
+      "hashtags": ["#Blockchain", "#Finance", "#Cryptocurrency"]
+    },
+    {
+      "id": 5,
+      "cover": "https://unsplash.com/photos/kGPCoRdrxKs",
+      "title": "Machine Learning in Healthcare: A Deep Dive",
+      "author": "Sophia Davis",
+      "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+      "posted_date": "2024-05-22",
+      "reading_time": "9 min",
+      "hashtags": ["#MachineLearning", "#Healthcare", "#AI"]
+    },
+    {
+      "id": 6,
+      "cover": "https://unsplash.com/photos/4DPKYJi4wEI",
+      "title": "Cloud Computing: Past, Present, and Future",
+      "author": "Daniel Brown",
+      "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
+      "posted_date": "2024-06-14",
+      "reading_time": "5 min",
+      "hashtags": ["#CloudComputing", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 7,
+      "cover": "https://unsplash.com/photos/FHTqDNZ8xaw",
+      "title": "Cybersecurity Threats in 2024",
+      "author": "Emily Wilson",
+      "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
+      "posted_date": "2024-07-08",
+      "reading_time": "6 min",
+      "hashtags": ["#Cybersecurity", "#Technology", "#Threats"]
+    },
+    {
+      "id": 8,
+      "cover": "https://unsplash.com/photos/C9t94JC4_L8",
+      "title": "Augmented Reality: A New World of Possibilities",
+      "author": "Olivia Martinez",
+      "author_img": "https://randomuser.me/api/portraits/women/8.jpg",
+      "posted_date": "2024-08-02",
+      "reading_time": "4 min",
+      "hashtags": ["#AugmentedReality", "#AR", "#Technology"]
+    },
+    {
+      "id": 9,
+      "cover": "https://unsplash.com/photos/Wpnoqo2plFA",
+      "title": "5G Technology: What You Need to Know",
+      "author": "William Harris",
+      "author_img": "https://randomuser.me/api/portraits/men/9.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": "7 min",
+      "hashtags": ["#5G", "#Technology", "#Future"]
+    },
+    {
+      "id": 10,
+      "cover": "https://unsplash.com/photos/xMpObZ7PrAo",
+      "title": "The Ethics of Artificial Intelligence",
+      "author": "Charlotte Roberts",
+      "author_img": "https://randomuser.me/api/portraits/women/10.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": "8 min",
+      "hashtags": ["#AI", "#Ethics", "#Technology"]
+    }
+  ]
+  
