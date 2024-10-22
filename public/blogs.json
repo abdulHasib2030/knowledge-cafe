@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cover": "https://unsplash.com/photos/WLxQvbMyfas",
+      "cover": "https://images.unsplash.com/photo-1505904267569-801515e6f5a1",
       "title": "The Rise of AI in Modern Technology",
       "author": "John Doe",
       "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "cover": "https://unsplash.com/photos/7KLa-xLbSXA",
+      "cover": "https://images.unsplash.com/photo-1542831371-d531d36971e6",
       "title": "Top 10 Python Libraries for Data Science",
       "author": "Jane Smith",
       "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://unsplash.com/photos/5Xwaj9gaR0g",
+      "cover": "https://images.unsplash.com/photo-1547658719-da2b51169166",
       "title": "Exploring Quantum Computing",
       "author": "Alice Johnson",
       "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "cover": "https://unsplash.com/photos/ZzOa5G8hSPI",
+      "cover": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
       "title": "How Blockchain is Revolutionizing Finance",
       "author": "Michael Lee",
       "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "cover": "https://unsplash.com/photos/kGPCoRdrxKs",
+      "cover": "https://images.unsplash.com/photo-1549923746-c502d488b3ea",
       "title": "Machine Learning in Healthcare: A Deep Dive",
       "author": "Sophia Davis",
       "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "cover": "https://unsplash.com/photos/4DPKYJi4wEI",
+      "cover": "https://images.unsplash.com/photo-1560264280-88b68371db4d",
       "title": "Cloud Computing: Past, Present, and Future",
       "author": "Daniel Brown",
       "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
@@ -61,7 +61,7 @@
     },
     {
       "id": 7,
-      "cover": "https://unsplash.com/photos/FHTqDNZ8xaw",
+      "cover": "https://images.unsplash.com/photo-1526379095098-49963b30174e",
       "title": "Cybersecurity Threats in 2024",
       "author": "Emily Wilson",
       "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
@@ -71,7 +71,7 @@
     },
     {
       "id": 8,
-      "cover": "https://unsplash.com/photos/C9t94JC4_L8",
+      "cover": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
       "title": "Augmented Reality: A New World of Possibilities",
       "author": "Olivia Martinez",
       "author_img": "https://randomuser.me/api/portraits/women/8.jpg",
@@ -81,7 +81,7 @@
     },
     {
       "id": 9,
-      "cover": "https://unsplash.com/photos/Wpnoqo2plFA",
+      "cover": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
       "title": "5G Technology: What You Need to Know",
       "author": "William Harris",
       "author_img": "https://randomuser.me/api/portraits/men/9.jpg",
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "cover": "https://unsplash.com/photos/xMpObZ7PrAo",
+      "cover": "https://images.unsplash.com/photo-1549923746-c502d488b3ea",
       "title": "The Ethics of Artificial Intelligence",
       "author": "Charlotte Roberts",
       "author_img": "https://randomuser.me/api/portraits/women/10.jpg",
